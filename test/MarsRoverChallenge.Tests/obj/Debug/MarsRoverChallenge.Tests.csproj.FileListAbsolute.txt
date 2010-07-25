@@ -1,0 +1,8 @@
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\MarsRoverChallenge\test\MarsRoverChallenge.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\MarsRoverChallenge\test\MarsRoverChallenge.Tests\bin\Debug\MarsRoverChallenge.Tests.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\MarsRoverChallenge\test\MarsRoverChallenge.Tests\bin\Debug\MarsRoverChallenge.Tests.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\MarsRoverChallenge\test\MarsRoverChallenge.Tests\bin\Debug\nunit.framework.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\MarsRoverChallenge\test\MarsRoverChallenge.Tests\bin\Debug\MarsRoverChallenge.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\MarsRoverChallenge\test\MarsRoverChallenge.Tests\obj\Debug\MarsRoverChallenge.Tests.dll
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\MarsRoverChallenge\test\MarsRoverChallenge.Tests\obj\Debug\MarsRoverChallenge.Tests.pdb
+C:\Users\dmohl\Documents\Visual Studio 2010\Projects\MarsRoverChallenge\test\MarsRoverChallenge.Tests\bin\Debug\MarsRoverChallenge.exe
